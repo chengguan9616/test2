@@ -26,3 +26,5 @@ function upfile (num,success){
 module.exports = {
     "upfile":upfile
 }
+
+console.log("log");
